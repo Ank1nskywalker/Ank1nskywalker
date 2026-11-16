@@ -4,16 +4,12 @@ Analista en ciberseguridad. Mis tres áreas fuertes son **Threat Intelligence**,
 
 Trabajo con organizaciones del sector público y financiero de Uruguay, Argentina y Chile, y doy charlas sobre cómo pasar de la inteligencia de amenazas a la acción: qué cazar, cómo atribuir y cómo escribir el informe para que alguien lo use.
 
-<br>
-
 ## Qué encontrás acá
 
-| | |
+| Repositorio | Contenido |
 |---|---|
 | 🎤 **[talks](https://github.com/Ank1nskywalker/talks)** | Slides y material de mis charlas, organizado por año |
 | 🧰 **[Templates](https://github.com/Ank1nskywalker/Templates)** | Plantillas reutilizables, como el informe de threat hunting (ES / EN) |
-
-<br>
 
 ## Charlas recientes
 
@@ -26,15 +22,11 @@ Trabajo con organizaciones del sector público y financiero de Uruguay, Argentin
 
 → [Ver todas las charlas](https://github.com/Ank1nskywalker/talks)
 
-<br>
-
 ## Especialidades
 
 **Threat Intelligence** · **Threat Hunting** · **Incident Response**
 
 `MITRE ATT&CK` · `Dark Web` · `Detección de amenazas` · `Atribución`
-
-<br>
 
 ## Contacto
 
