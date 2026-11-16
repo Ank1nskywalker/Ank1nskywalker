@@ -1,16 +1,41 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/Ank1nskywalker/Ank1nskywalker/main/banner.svg" alt="David Perez · Threat Intelligence, Threat Hunting, Incident Response" width="100%">
 
-<!--
-**Ank1nskywalker/Ank1nskywalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista en ciberseguridad. Mis tres áreas fuertes son **Threat Intelligence**, **Threat Hunting** e **Incident Response**.
 
-Here are some ideas to get you started:
+Trabajo con organizaciones del sector público y financiero de Uruguay, Argentina y Chile, y doy charlas sobre cómo pasar de la inteligencia de amenazas a la acción: qué cazar, cómo atribuir y cómo escribir el informe para que alguien lo use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+## Qué encontrás acá
+
+| | |
+|---|---|
+| 🎤 **[talks](https://github.com/Ank1nskywalker/talks)** | Slides y material de mis charlas, organizado por año |
+| 🧰 **[Templates](https://github.com/Ank1nskywalker/Templates)** | Plantillas reutilizables, como el informe de threat hunting (ES / EN) |
+
+<br>
+
+## Charlas recientes
+
+| Cuándo | Evento | Charla |
+|---|---|---|
+| Nov 2026 | DEATHCon · Online + Córdoba | **Writing the Incident Story** · workshop |
+| Oct 2026 | Hacking Day · Paraná | **Cazando lo que no sabés que no sabés** |
+| Sep 2026 | CYBER.AR · Buenos Aires | **CTI proactiva para la ciberdefensa** |
+| May 2026 | Ekoparty Miami | **Threat Intelligence 101** |
+
+→ [Ver todas las charlas](https://github.com/Ank1nskywalker/talks)
+
+<br>
+
+## Especialidades
+
+**Threat Intelligence** · **Threat Hunting** · **Incident Response**
+
+`MITRE ATT&CK` · `Dark Web` · `Detección de amenazas` · `Atribución`
+
+<br>
+
+## Contacto
+
+[![X](https://img.shields.io/badge/X-@anakinswal-0d1117?style=flat-square&logo=x&logoColor=white)](https://x.com/anakinswal)
